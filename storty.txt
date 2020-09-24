@@ -1,1 +1,3 @@
 This is the frist project of CS400, this repository is created by Charles. And as a front end developter for this project, I have 
+make a driver class, MadisonBuffetDriver.java, for this project and it should work as long as there is a hashtable and MadisonBuffet class
+which I also upload a dummie MadisonBuffet class so that the driver class can work.
