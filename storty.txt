@@ -1,3 +1,8 @@
 This is the frist project of CS400, this repository is created by Charles. And as a front end developter for this project, I have 
 make a driver class, MadisonBuffetDriver.java, for this project and it should work as long as there is a hashtable and MadisonBuffet class
 which I also upload a dummie MadisonBuffet class so that the driver class can work.
+
+Charles put countless hours of work and dedication into this project, staying up long into the night, functioning on caffeine and sheer determination.
+  Beginning the long and treacherous journey, Charles prepared himself with a long nights sleep, to keep his brain functioning at maximum capacity for
+  as long as possible. He awoke and brewed his first, but definitely not his last, pot of coffee. Opening his laptop with the gaze of a cheetah nearing a
+  gazelle, the keys of the laptop began to clack. His fingers danced to the hypnotic rhythm as seconds turned to minutes turned to hours. 
